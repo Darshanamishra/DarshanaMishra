@@ -5,6 +5,10 @@
 
 Welcome to my portfolio project! Here, you will find my work on mining great insights from data using a range of powerful tools and techniques.
 
+I hold a **Bachelor's in Computer Application**, am certified as an **IBM Data Analyst** and **Microsoft Azure AI-900**, and I graduated from the **NPower Junior Data Analyst Program**. My passion lies in data analytics, and I'm always eager to explore new insights from data.
+
+---
+
 **Tools & Techniques:**
 - Excel, SQL, Power BI, Power Query, DAX
 - Python, ML model, BeautifulSoup
