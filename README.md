@@ -5,7 +5,7 @@ Welcome to my portfolio project! Here, you will find my work on mining great ins
 
 **Tools & Techniques:**
 - Excel, SQL, Power BI, Power Query, DAX
-- Python, Random Forest Classifier, BeautifulSoup
+- Python, ML model, BeautifulSoup
 - Data Modeling
 
 I would love to hear your thoughts and would be excited to collaborate with you!
