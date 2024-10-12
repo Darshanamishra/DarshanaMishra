@@ -14,7 +14,11 @@ Welcome to my portfolio! Here, you'll find projects that showcase how I extract 
 
 ---
 
-I hold a **Bachelor's in Computer Application**, and I’m certified as an **IBM Data Analyst** and **Microsoft Azure AI-900** professional. Additionally, I graduated from the **NPower Junior Data Analyst Program**. I’m passionate about turning raw data into meaningful insights and always excited to work on new challenges in data analytics.
+I hold the following certifications:  
+- 🎓 **Bachelor's in Computer Application**  
+- 📊 **IBM Data Analyst Certification**  
+- 🤖 **Microsoft Azure AI-900 Certification**  
+- 🏅 **NPower Junior Data Analyst Program Graduate**
 
 ---
 
