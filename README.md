@@ -1,62 +1,71 @@
 ## Hi there 👋
 
-<!--
-**Darshanamishra/Darshanamishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me - Darshana Mishra</title>
+    <style>
+        body {
+            background-color: #1b1b1b;
+            color: #d3d3d3;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #FFD700;
+        }
+        .skills, .background {
+            margin-top: 30px;
+        }
+        ul {
+            list-style-type: none;
+        }
+        ul li {
+            background-color: #333;
+            padding: 10px;
+            margin: 5px 0;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>About Me</h1>
+        <p>Hello! I'm Darshana Mishra, a passionate Data Analyst with a background in transitioning from retail management to the tech industry. I am intrigued by how data can influence and inform decisions, and I'm constantly seeking to learn and explore new skills in data analytics. I have developed a range of projects, from machine learning models to interactive dashboards, and I’m always excited about the potential insights I can extract from data.
+        </p>
 
-Here are some ideas to get you started:
+        <h2>Skills</h2>
+        <div class="skills">
+            <ul>
+                <li><strong>Data Analysis:</strong> Python, SQL, Excel, Tableau, Power BI</li>
+                <li><strong>Data Cleansing & Validation:</strong> OpenRefine, Python, SQL, Excel Power Query</li>
+                <li><strong>Machine Learning:</strong> Random Forest, Titanic dataset analysis</li>
+                <li><strong>API & Web Scraping:</strong> Yfinance API, API calls, Selenium, Postman</li>
+                <li><strong>Automation:</strong> Selenium, Java, Automated data validation scripts</li>
+                <li><strong>Database Management:</strong> SQL (joins, queries, schema design)</li>
+                <li><strong>Project Management:</strong> Agile, Scrum, Cross-functional collaboration</li>
+                <li><strong>Certifications:</strong> IBM Data Analyst Professional Certificate, Azure AI Fundamentals</li>
+            </ul>
+        </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sree+Vignesh!" />
-</h1>
-
-<h3 align="center">Aspiring Data Analyst from India</h3>
-<img align="right" alt="Data Visualization" width="300" src="https://cdn.dribbble.com/users/43762/screenshots/1193020/line-graph-dribbbble.gif">
-
-<h3 align="left">About Me:</h3>
-<p align="left">
-    Passionate Data Analyst dedicated to leveraging data for informed decision-making and driving business insights. Proficient in various data analysis tools and techniques, with a strong foundation in data visualization, SQL, and Python.
-</p>
-
-<h3 align="left">SKILLS:</h3>
-<p align="left">
-- Proficient in PivotTables, VLOOKUP, data validation, and conditional formatting for efficient data analysis and reporting. <a href="https://codebasics.io/portfolio/SREE-VIGNESH-S" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=Cq225MC8MgBu&format=png&color=000000" alt="Skills" height="25" width="25" /></a>.
-
-- Skilled in creating interactive dashboards and visualizations with Power BI, utilizing DAX, Power Query, and custom visuals. <a href="https://codebasics.io/portfolio/SREE-VIGNESH-S" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=UD9nG7mgbuXZ&format=png&color=000000" alt="Power BI" height="30" width="30" /></a>.
-
-- Experienced in writing complex SQL queries for data extraction, aggregation, and analysis across large datasets. <a href="https://codebasics.io/portfolio/SREE-VIGNESH-S" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=RXrON5kyN96A&format=png&color=000000" alt="SQL" height="30" width="30" /></a>.
-
-- Competent in using Python libraries like Pandas, NumPy, and Matplotlib for data manipulation and analysis. <a href="https://codebasics.io/portfolio/SREE-VIGNESH-S" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=51769&format=png&color=000000" alt="Python" height="30" width="30" /></a>.
-
-- Proficient in data cleaning techniques to ensure accuracy and consistency in datasets, using tools like Excel, SQL, and Python. <a href="https://codebasics.io/portfolio/SREE-VIGNESH-S" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=DXyicYvZaepL&format=png&color=000000" alt="Data Cleaning" height="30" width="30" /></a>.
-</p>
-
-<h3 align="left">Projects:</h3>
-<p align="left">
-<a href="https://github.com/sreevignesh05?tab=repositories" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=12987&format=png&color=000000" alt="Projects" height="75" width="75" /></a> 
-</p> 
-
-<h3 align="left">Portfolio/LinkedIn:</h3>
-<p align="left">
-<a href="https://codebasics.io/portfolio/SREE-VIGNESH-S" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=B2kE1iYkRIiw&format=png&color=000000" alt="Portfolio" height="75" width="75" /></a> 
-<a href="https://www.linkedin.com/in/sree-vignesh-05-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" /></a>
-</p> 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="55" height="55"/> </a> 
-    <a href="https://github.com/sreevignesh05/Business-Insights-360" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="Power BI" width="60" height="60"/> </a> 
-    <a href="https://github.com/sreevignesh05/Sales-analytics" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" alt="Excel" width="60" height="60"/> </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>  
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/> </a>   
-</p>
+        <h2>Background</h2>
+        <div class="background">
+            <p>I hold a Post Graduation in Global Business Management and a Bachelor's in Computer Application. Over the years, I've gathered 4+ years of experience as a Quality Assurance Analyst, working in manual testing and software quality assurance. I later transitioned into data analytics, where I've developed my skills in data cleansing, analysis, and visualization.</p>
+            <p>Some of my key projects include:</p>
+            <ul>
+                <li>Auto Insurance Claims Analysis using Excel, Power Query, and visualization techniques</li>
+                <li>Speedle project with an interactive Power BI dashboard</li>
+                <li>Random Forest machine learning model using the Titanic dataset</li>
+                <li>Web scraping for stock analysis using the Yfinance API</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
 
