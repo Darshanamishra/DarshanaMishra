@@ -13,6 +13,7 @@ Welcome to my portfolio project! Here, you will find my work on mining great ins
 - Data Modeling, Data Transformation, Feature Engineering, Data Manipulation, ETL Process
 
 
+
 I hold a **Bachelor's in Computer Application**, am certified as an **IBM Data Analyst** and **Microsoft Azure AI-900**, and I graduated from the **NPower Junior Data Analyst Program**. My passion lies in data analytics, and I'm always eager to explore new insights from data.
 
 ---
