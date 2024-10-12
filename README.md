@@ -1,5 +1,7 @@
-# Hi There! 👋  
-### I'm Darshana Mishra!
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&color=FFD700&center=true&vCenter=true&width=600&height=80&duration=3000&lines=Hi+There!+👋;+I'm+Darshana+Mishra!;" />
+</h1>
+
 
 Welcome to my portfolio project! Here, you will find my work on mining great insights from data using a range of powerful tools and techniques.
 
