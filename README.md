@@ -12,7 +12,7 @@ I would love to hear your thoughts and would be excited to collaborate with you!
 
 ### Check out my work:
 - [![GitHub](https://img.shields.io/badge/GitHub-Check%20Out%20My%20GitHub-black?style=for-the-badge&logo=github)](https://github.com/Darshanamishra)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/darshanamishra)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/darshanamishra25/)
 
 ---
 
