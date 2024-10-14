@@ -15,7 +15,8 @@ Welcome to my portfolio! Here, you'll find projects that showcase how I extract 
 ---
 
 I hold the following certifications:  
-- 🎓 **Bachelor's in Computer Application**  
+- 🎓 **Bachelor's in Computer Application**
+- 🏅 **Post Graduation in Global Business Management**
 - 📊 **IBM Data Analyst Certification**  
 - 🤖 **Microsoft Azure AI-900 Certification**  
 - 🏅 **NPower Junior Data Analyst Program Graduate**
