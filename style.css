@@ -234,7 +234,6 @@ nav a.active {
     text-align: center; /* Center the content horizontally */
     height: auto; /* Use auto so height adapts on different screens */
     background-color: #111111; /* Background matching dark theme */
-    padding: 0 20px; /* Optional: Padding for smaller screens */
 }
 
     /* Heading styling for dark theme */
@@ -242,8 +241,8 @@ nav a.active {
         font-size: 36px;
         color: #FFD700; /* Gold color for the heading */
         font-weight: bold;
-        margin-top: 40px;
-        margin-bottom: 60px;
+        margin-top: 20px;
+        margin-bottom: 40px;
 }
     
 
