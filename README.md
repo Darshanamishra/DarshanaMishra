@@ -14,12 +14,12 @@ Welcome to my portfolio! Here, you'll find projects that showcase how I extract 
 
 ---
 
-I hold the following certifications:  
+I hold the following degrees and certifications:  
 - 🎓 **Bachelor's in Computer Application**
 - 🏅 **Post Graduation in Global Business Management**
 - 📊 **IBM Data Analyst Certification**  
 - 🤖 **Microsoft Azure AI-900 Certification**  
-- 🏅 **NPower Junior Data Analyst Program Graduate**
+- 🏅 **NPower Data Analyst Program Graduate**
 
 ---
 
