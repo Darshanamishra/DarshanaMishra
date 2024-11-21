@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&color=FFD700&center=true&vCenter=true&width=600&height=80&duration=3000&lines=Hi+There!+👋;+I'm+Darshana+Mishra!;" />
 </h1>
 
-Welcome to my portfolio! Here, you'll find projects that showcase how I extract powerful insights from data using a variety of advanced tools and techniques.
+Welcome to my portfolio! Here, you'll find projects that showcase how I extract powerful insights from data using various advanced tools and techniques. 
 
 ---
 
