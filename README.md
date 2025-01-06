@@ -2,7 +2,7 @@
 # Hi There! 👋 I'm Darshana Mishra! 
 
 
-Welcome to my portfolio! Here, you'll find projects that showcase how I extract powerful insights from data using various advanced tools and techniques.      
+Welcome to my portfolio! Here, you'll find projects that showcase how I extract powerful insights from data using various advanced tools and techniques.        
 
 ---
 
