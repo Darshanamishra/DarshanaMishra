@@ -4,4 +4,4 @@ Welcome to my portfolio! Here, you'll find projects that showcase how I extract 
 
 **Let's Collaborate!**  
 I'm always eager to connect with like-minded professionals. Feel free to explore my work and reach out:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/darshanamishra25/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/darshanamishra25/)
