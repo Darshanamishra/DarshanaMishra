@@ -1,6 +1,7 @@
-# Hi There! 👋 I'm Darshana Mishra!
+# Darshana Mishra | Data Analyst
 
-Welcome to my portfolio! Here, you'll find projects that showcase how I extract powerful insights from data using various advanced tools and techniques.
+## About Me
+Data-driven analyst with experience in multi-system data processing, cross-departmental collaboration, and translating complex requirements into business solutions. Focused on delivering actionable insights and optimizing business processes through effective data analysis.
 
 **Let's Collaborate!**  
 I'm always eager to connect with like-minded professionals. Feel free to explore my work and reach out:
